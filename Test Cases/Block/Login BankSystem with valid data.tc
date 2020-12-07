@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login BankSystem with valid data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d67d55f7-34e8-418c-b21d-12767450ef32</testCaseGuid>
+</TestCaseEntity>
